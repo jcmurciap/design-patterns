@@ -1,0 +1,13 @@
+{
+  "name": "mop/design-patterns",
+  "description": "Design patterns in PHP",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Mop\\DesignPatterns\\": "src/"
+    }
+  },
+  "minimum-stability": "alpha",
+  "require": {}
+}
